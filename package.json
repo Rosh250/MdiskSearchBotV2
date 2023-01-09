@@ -8,7 +8,7 @@
 
 "scripts": {
 
-"build": "python",
+"build": "py",
 
 "test": "echo \"No test specified\" && exit 1",
 
