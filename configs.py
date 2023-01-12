@@ -11,7 +11,7 @@ class Config(object):
 
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5895677018:AAEx26zuPsb0rVVxzA95Z8j24yYTOBQLCOk")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Midsk Search Robot 🤖")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOK0BuwMw9MJFtZWlO_EzDisTj2lQAAPvcF2tg-tEmHG6yHNpCu6DCmA-rLG4ZmjtTjZyl5Tx6UCylxDEYcIhm6mznCbtXdBLSNYKRlD9GHZFEu842XR7O-D0i-SWbI7Vb_yYntUcEZyN_bGlr5uYl0F6RQkPDjX62TadI1T2cLA3RHGbSl0Mh4VbuV-zU-0qIeg-ssaVMK1GzRlVPfFSbfu4Ck7ZpzZxJrZx34DpAafwObVgdujGdoje-aWeicVicNS0PgBmd7D-Phitg8CPCbUL3oQC7XJGKIKUU_B7f5Hbr-6GWLUXiBrFmeNH77KrhcI4epgqokveMsUFjNatkhCtrSE=")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001439016196")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "mdisk_movie_searchh_bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "806256138"))
